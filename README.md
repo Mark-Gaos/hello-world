@@ -1,4 +1,4 @@
 # hello-world
 Hi pipls!
 
-Added some unnecessary information
+Новая запись на русском языке
